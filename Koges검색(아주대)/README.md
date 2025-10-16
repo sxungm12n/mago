@@ -1,3 +1,4 @@
+```mermaid
 graph TB
     subgraph "사용자 레이어"
         User[연구자]
